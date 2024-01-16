@@ -1,2 +1,3 @@
-# spark_eda
-FOUNT Courselet
+# Spark: Exploratory Data Analysis
+
+In development
